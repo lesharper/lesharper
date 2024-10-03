@@ -1,4 +1,6 @@
-## Hi there 👋
+## Greetings!
+
+I am a developer by trade, with a deep fascination for the art of programming. This is what drives me to pursue my craft, and it is what brings me here to share my thoughts with you. 👋
 
 
 ### 💻: Skills :
