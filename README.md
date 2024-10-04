@@ -46,7 +46,7 @@ I am a software developer by profession, with a strong passion for the art of co
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lesharper&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<div id="stat" align="start" justify="center">
+<div id="stat" style="display: flex; align-items: center;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lesharper&theme=dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lesharper&theme=dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lesharper&theme=dark" alt=""/>
