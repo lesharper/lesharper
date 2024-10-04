@@ -9,7 +9,7 @@ I am a software developer by profession, with a strong passion for the art of co
 * 🌍  I'm based in Angarsk
 * ✉️  You can contact me at [https://t.me/lesharper](mailto:https://t.me/lesharper)
 
-### Skills
+### Languages & Tools
 
 
 <div>
