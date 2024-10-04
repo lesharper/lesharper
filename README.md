@@ -60,14 +60,5 @@ I am a software developer by profession, with a strong passion for the art of co
       <a href="http://www.github.com/lesharper"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lesharper&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
-<div align="start">
-  <div style="display: flex; align-items: flex-start;">
-
-
-  </div>
-</div>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesharper&layout=compact)
 
 
