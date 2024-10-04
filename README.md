@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex
 ============================================================================================================================
 
-Web Developer and I'm just a programmer who enjoys what I do.
+Web Developer and just a programmer who enjoys what he do.
 -------------------------------------------------------------
 
 I am a software developer by profession, with a strong passion for the art of coding. This is what motivates me to continue honing my skills, and it's what brings me to share my insights with you today.
