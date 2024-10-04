@@ -50,9 +50,10 @@ I am a software developer by profession, with a strong passion for the art of co
 
 
 <div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lesharper&theme=dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lesharper&theme=dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lesharper&theme=dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=dark" alt=""/>
 </div>
 
 <div align="start">
