@@ -9,6 +9,10 @@ I am a software developer by profession, with a strong passion for the art of co
 * 🌍  I'm based in Angarsk
 * ✉️  You can contact me at [https://t.me/lesharper](mailto:https://t.me/lesharper)
 
+### Socials
+-------------------------------------------------------------
+<p align="left"> <a href="https://www.github.com/lesharper" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
 ### Languages & Tools
 -------------------------------------------------------------
 
@@ -34,10 +38,6 @@ I am a software developer by profession, with a strong passion for the art of co
 </div>
 
 
-
-### Socials
--------------------------------------------------------------
-<p align="left"> <a href="https://www.github.com/lesharper" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### My GitHub Stats
 -------------------------------------------------------------
