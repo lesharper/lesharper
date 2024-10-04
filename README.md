@@ -34,7 +34,9 @@ I am a software developer by profession, with a strong passion for the art of co
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lesharper)](https://git.io/streak-stats)
+### 📈 GitHub Activity Graph:
+
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?lesharper
 
 ### Socials
 
