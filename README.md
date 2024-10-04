@@ -44,11 +44,16 @@ I am a software developer by profession, with a strong passion for the art of co
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lesharper&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div width="500px">
-  <a href="http://www.github.com/lesharper"><img src="https://github-readme-stats.vercel.app/api?username=lesharper&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lesharper's GitHub stats" /></a>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <a href="http://www.github.com/lesharper"><img src="https://github-readme-stats.vercel.app/api?username=lesharper&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lesharper's GitHub stats" /></a>
+    <a href="http://www.github.com/lesharper"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lesharper&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  </div>
 </div>
 
-<a href="http://www.github.com/lesharper"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lesharper&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesharper&layout=compact)
 
