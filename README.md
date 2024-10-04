@@ -48,9 +48,4 @@ I am a software developer by profession, with a strong passion for the art of co
 </div>
 
 
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lesharper&theme=dark" alt=""/>
-</div>
-
-
 
