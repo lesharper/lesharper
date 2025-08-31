@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex
 ============================================================================================================================
 
-Software engineer and simply a developer who knows his job
--------------------------------------------------------------
+Software Engineer Driving Innovation
+---------------------------------------------
 
-I am an experienced software engineer and believe that my mission is to make the world a better and more beautiful place.
+Seasoned developer crafting scalable, high-performance systems with cutting-edge tech.
 
-* 🌍  I'm based in Moscow
-* ✉️  You can contact me at [https://t.me/lesharper](mailto:https://t.me/lesharper)
+* 🌍  I'm based in Moscow
+* ✉️  You can contact me at [https://t.me/lesharper](mailto:https://t.me/lesharper)
 
 ### Languages & Tools
--------------------------------------------------------------
+---------------------------------------------
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -32,6 +32,9 @@ I am an experienced software engineer and believe that my mission is to make the
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
-
-
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gin/gin-original.svg" title="Gin" alt="Gin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/actix/actix-original.svg" title="Actix" alt="Actix" width="40" height="40"/>&nbsp;
+</div>
