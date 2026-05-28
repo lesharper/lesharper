@@ -53,14 +53,6 @@ I am a Software Engineer with over 4 years of experience building scalable, blaz
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lesharper&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=ffffff" alt="GitHub Stats" />
-</div>
-
----
-
 ### 📬 Let's Connect
 
 Feel free to reach out if you want to talk about system architecture, high-performance web, Rust, or just connect!
