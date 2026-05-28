@@ -22,7 +22,6 @@ I am a Software Engineer with over 4 years of experience building scalable, blaz
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/-Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig" />
 </p>
 
 **Frameworks & Libraries**
